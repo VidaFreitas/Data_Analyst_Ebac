@@ -17,7 +17,7 @@ O repositório está dividido em três pastas:
 - Python_version: Esta pasta contém alguns exercícios realizados ao decorrer do curso no formato .py 
 
 
-# EN Version
+### EN Version
 
 
 ## 📑 About the Project
