@@ -16,7 +16,9 @@ O repositório está dividido em três pastas:
 - Notebook_version: Esta pasta contém exercícios realizados ao decorrer do curso no formato de notebook feito através do Google Colab. 
 - Python_version: Esta pasta contém alguns exercícios realizados ao decorrer do curso no formato .py 
 
-#EN Version
+
+# EN Version
+
 
 ## 📑 About the Project
 
